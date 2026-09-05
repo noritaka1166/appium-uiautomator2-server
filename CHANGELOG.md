@@ -1,3 +1,9 @@
+## [10.6.3](https://github.com/appium/appium-uiautomator2-server/compare/v10.6.2...v10.6.3) (2026-09-05)
+
+### Bug Fixes
+
+* update regular alert title pattern ([#795](https://github.com/appium/appium-uiautomator2-server/issues/795)) ([5ddf241](https://github.com/appium/appium-uiautomator2-server/commit/5ddf241f278368eb652c4054203fa7d7de3101f4))
+
 ## [10.6.2](https://github.com/appium/appium-uiautomator2-server/compare/v10.6.1...v10.6.2) (2026-08-14)
 
 ### Bug Fixes
