@@ -4,6 +4,9 @@
 [![NPM version](http://img.shields.io/npm/v/appium-uiautomator2-server.svg)](https://npmjs.org/package/appium-uiautomator2-server)
 [![Downloads](http://img.shields.io/npm/dm/appium-uiautomator2-server.svg)](https://npmjs.org/package/appium-uiautomator2-server)
 
+> **This repository has moved.** Development now continues in the [appium-android monorepo](https://github.com/appium/appium-android/tree/main/packages/uiautomator2-server).
+
+
 A netty server that runs on the device listening for commands and executes using UiAutomator V2.
 
 ## building project
